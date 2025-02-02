@@ -2,6 +2,18 @@
 
 This repository is my learning playground for mastering **Exploratory Data Analysis (EDA)**. It documents my progress, experiments, and insights as I dive deep into the world of data.
 
+## What is EDA?
+
+EDA is a form of a step/approach which is used to analyze datasets so that we can get some insights out of it (visuals) and to obtain confidence in a data to an extent where we are ready to engage a machine learning model.
+
+EDA helps us in finding the errors, dscovering data, mapping out data structure and finding out anomalies
+---
+
+## Visualization
+
+
+
+
 ---
 
 ## Topics Covered
