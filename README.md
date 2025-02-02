@@ -22,6 +22,9 @@ visualization is the presentation of the data in the graphical or visual form to
 ## Steps involved in EDA
 1. ### Data Sourcing:
 - The process of gathering data from multiple sources as external or internal data collection
+- - There are two major kind of data which can be classified according to the source:
+- 1. **Public data:** Easily accessible, data made public for the purpose of research
+- 2. **Private data** Data which is not available on public platform
 
 ---
 
