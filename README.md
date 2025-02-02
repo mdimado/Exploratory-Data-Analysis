@@ -7,12 +7,21 @@ This repository is my learning playground for mastering **Exploratory Data Analy
 EDA is a form of a step/approach which is used to analyze datasets so that we can get some insights out of it (visuals) and to obtain confidence in a data to an extent where we are ready to engage a machine learning model.
 
 EDA helps us in finding the errors, dscovering data, mapping out data structure and finding out anomalies
+
 ---
 
 ## Visualization
+visualization is the presentation of the data in the graphical or visual form to understand the data more clearly.
+- Easily understand the features of the data
+- Easily analyze the data and summarize it
+- Help to get meaningful insights from the data
+- Help to find the trend or pattern of the data
 
+---
 
-
+## Steps involved in EDA
+1. ### Data Sourcing:
+- The process of gathering data from multiple sources as external or internal data collection
 
 ---
 
