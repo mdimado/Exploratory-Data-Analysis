@@ -20,13 +20,13 @@ visualization is the presentation of the data in the graphical or visual form to
 ---
 
 ## Steps involved in EDA
-1. ### Data Sourcing:
+### 1. Data Sourcing:
 - The process of gathering data from multiple sources as external or internal data collection
      There are two major kind of data which can be classified according to the source:
      1. **Public data:** Easily accessible, data made public for the purpose of research
      2. **Private data:** Data which is not available on public platform
 
-2. ### Data Cleaning:
+### 2. Data Cleaning:
 - The process of cleaning the data to improve the quality of the data for further data analysis and building a machine learning model. The benifit of data cleaning is that all irrelevent data is gone, and we get the good quality of data which will help in improving the accuracy of our ML model.
     - Handling missing values
     - Standardization of the data
@@ -35,7 +35,9 @@ visualization is the presentation of the data in the graphical or visual form to
 
 #### Handling missing values
 - Delete rows/columns: commonly used to handle missing values. Rows can be deleted if it has insignificant number of missing values. Columns can be deleted if it has more than 75% of missing values (no thumb rule)
-- 
+- Replacing with mean/median/mode: can be used on independent numerical variables. categorical features can be imputed with mode.
+- Algorithm imputation: Some ML algorithm supports to handle missing values in the dataset. Like KNN, Naive Bayes, Random forest.
+- Predicting the missing values: 
 ---
 
 ## Topics Covered
