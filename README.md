@@ -46,16 +46,8 @@ visualization is the presentation of the data in the graphical or visual form to
 #### Standardization:
 Standard scaler ensures that each of the feature, the mean is 0 and the standard deviation is 1, bringing all the features to the same magnitude. (Standardization helps you to scale down your feature based on the stndard normal distribution)
 
-Standardization Formula:
-
-![Standardization Formula](https://latex.codecogs.com/png.latex?Z%20%3D%20%5Cfrac%7BX%20-%20%5Cmu%7D%7B%5Csigma%7D)
-
-Where:
-- \( Z \) = Standardized value (Z-score)
-- \( X \) = Original data point
-- \( \mu \) = Mean of the dataset
-- \( \sigma \) = Standard deviation of the dataset
-
+#### Min-Max Scaler:
+Helps you to scale down your features between a range 0 to 1
 ---
 
 ## Topics Covered
