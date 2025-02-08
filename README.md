@@ -37,17 +37,15 @@ visualization is the presentation of the data in the graphical or visual form to
 - Delete rows/columns: commonly used to handle missing values. Rows can be deleted if it has insignificant number of missing values. Columns can be deleted if it has more than 75% of missing values (no thumb rule)
 - Replacing with mean/median/mode: can be used on independent numerical variables. categorical features can be imputed with mode.
 - Algorithm imputation: Some ML algorithm supports to handle missing values in the dataset. Like KNN, Naive Bayes, Random forest.
-- Predicting the missing values: 
+- Predicting the missing values: Prediction model is one of the advanced method to handle missing values. In this method, dataset with no missing value become training set and dataset with missing value becomes the test set and the missing value is treated as target variable
 ---
 
 ## Topics Covered
-- *(No topics covered yet. Stay tuned!)*
-
+- [**Data Collection & Loading**](./Data_Collection_&_Loading.ipynb): Gather and load data from various sources.
+- [**Data Cleaning**](./Data_Cleaning.ipynb): Handle missing values and duplicates effectively.
 ---
 
 ## Topics Not Yet Covered
-- **Data Collection & Loading**: Gather and load data from various sources.
-- **Data Cleaning**: Handle missing values and duplicates effectively.
 - **Data Transformation**: Normalize, encode, and transform data for analysis.
 - **Data Visualization**: Create visualizations to spot trends and patterns.
 - **Descriptive Statistics**: Summarize data using measures like mean, median, etc.
