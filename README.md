@@ -48,6 +48,7 @@ Standard scaler ensures that each of the feature, the mean is 0 and the standard
 
 #### Min-Max Scaler:
 Helps you to scale down your features between a range 0 to 1
+
 ---
 
 ## Topics Covered
