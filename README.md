@@ -48,9 +48,7 @@ Standard scaler ensures that each of the feature, the mean is 0 and the standard
 
 Standardization Formula:
 
-\[
-Z = \frac{X - \mu}{\sigma}
-\]
+![Standardization Formula](https://latex.codecogs.com/png.latex?Z%20%3D%20%5Cfrac%7BX%20-%20%5Cmu%7D%7B%5Csigma%7D)
 
 Where:
 - \( Z \) = Standardized value (Z-score)
