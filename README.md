@@ -39,7 +39,7 @@ visualization is the presentation of the data in the graphical or visual form to
 - Algorithm imputation: Some ML algorithm supports to handle missing values in the dataset. Like KNN, Naive Bayes, Random forest.
 - Predicting the missing values: Prediction model is one of the advanced method to handle missing values. In this method, dataset with no missing value become training set and dataset with missing value becomes the test set and the missing value is treated as target variable
 
-### 2. Feature Scaling:
+### 3. Feature Scaling:
 - The method to rescale the values present in the features. In feature scaling, we convert the scale of different measurement into a single scale. It stndardizes the whole dataset in one range
 - When we are dealing with independent variables or features that differ from each other in terms of range of values or units of the features, then we have to normalize/standardize the data so that the difference of values doesn't affect the outcome of the data
 
@@ -48,6 +48,17 @@ Standard scaler ensures that each of the feature, the mean is 0 and the standard
 
 #### Min-Max Scaler:
 Helps you to scale down your features between a range 0 to 1
+
+### 4. Outlier Treatment:
+Outliers are the most extreme values in the data. It is an abnormal observation that deviate from the norm. Outliers do not fit in the normal behaviour of the data. (Anomalies)
+
+#### Detecting Outliers
+1. Boxplot
+2. Histogram
+3. Scatter Plot
+4. Z-Score
+5. Inter quartile range (values out of 1.5 time of IQR)
+
 
 ---
 
