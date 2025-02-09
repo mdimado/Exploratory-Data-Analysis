@@ -54,12 +54,11 @@ Outliers are the most extreme values in the data. It is an abnormal observation 
 
 #### Detecting Outliers
 1. Boxplot
-![boxplot](images/image.png)
-<img src="images/image.png" alt="boxplot" width="200"/>
+<img src="images/image.png" alt="boxplot" width="400"/>
 2. Histogram
-![histogram](images/image-1.png)
+<img src="images/image-1.png" alt="histogram" width="400"/>
 3. Scatter Plot
-![scatter plit](images/image-2.png)
+<img src="images/image-2.png" alt="scatter plot" width="400"/>
 4. Z-Score
 5. Inter quartile range (values out of 1.5 time of IQR)
 
