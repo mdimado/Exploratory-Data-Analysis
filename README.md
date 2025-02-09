@@ -69,6 +69,16 @@ Outliers are the most extreme values in the data. It is an abnormal observation 
 4. Z-Score
 5. Inter quartile range (values out of 1.5 time of IQR)
 
+#### Handling outliers
+
+1. Remove outliers
+2. Replace outliers with suitable values by using the following methods:
+    - Quantile method
+    - Inter quantile range
+3. Use that ML model which are not sensitive to outliers
+    - KNN, Decision tree, SVM, Naive Bayes, Ensemble methods
+
+
 
 ---
 
@@ -76,6 +86,7 @@ Outliers are the most extreme values in the data. It is an abnormal observation 
 - [**Data Collection & Loading**](./Data_Collection_&_Loading.ipynb): Gather and load data from various sources.
 - [**Data Cleaning**](./Data_Cleaning.ipynb): Handle missing values and duplicates effectively.
 - [**Feature Scaling**](./Feature_Scaling.ipynb): Stndardization and normalization of numerical data
+- [**Handling Outliers**](./Handling_Outliers.ipynb): Methods to identify and address outliers.
 ---
 
 ## Topics Not Yet Covered
@@ -83,7 +94,6 @@ Outliers are the most extreme values in the data. It is an abnormal observation 
 - **Data Visualization**: Create visualizations to spot trends and patterns.
 - **Descriptive Statistics**: Summarize data using measures like mean, median, etc.
 - **Detecting Patterns**: Identify relationships and emerging trends.
-- **Handling Outliers**: Methods to identify and address outliers.
 - **Correlation Analysis**: Explore feature dependencies and relationships.
 - **Initial Modeling**: Experiment with simple models and hypotheses.
 
