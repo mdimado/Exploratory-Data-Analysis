@@ -54,6 +54,7 @@ Outliers are the most extreme values in the data. It is an abnormal observation 
 
 #### Detecting Outliers
 1. Boxplot
+![boxplot](image.png)
 2. Histogram
 3. Scatter Plot
 4. Z-Score
